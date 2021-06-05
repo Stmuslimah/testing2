@@ -1,0 +1,3 @@
+b'google.com'
+b'gmail.com'
+b'twitter.com'
